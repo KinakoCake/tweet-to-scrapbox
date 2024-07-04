@@ -1,0 +1,2 @@
+# tweet-to-scrapbox
+GraphQLやRustの勉強も兼ねて、ツイートからScrapboxのページをブックマーク代わりに生成するアプリを作ってみる。

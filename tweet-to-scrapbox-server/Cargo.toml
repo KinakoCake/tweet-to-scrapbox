@@ -1,0 +1,11 @@
+[package]
+name = "tweet-to-scrapbox-server"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+actix-web = "4.8.0"
+juniper = "0.16.1"
+juniper_actix = "0.5.0"
